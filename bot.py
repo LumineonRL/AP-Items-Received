@@ -48,7 +48,7 @@ async def on_ready():
     # Schedule scrape.py to run every 10 minutes
     async def periodic_scrape():
         while True:
-            await asyncio.sleep(600)
+            await asyncio.sleep(1800)
             await run_scrape()
             await notify_users()
 
