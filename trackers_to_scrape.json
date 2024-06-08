@@ -1,0 +1,80 @@
+{
+    "users": [
+        {
+            "username": "lumineon",
+            "trackers": [
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "823"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "824"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "1962"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "2592"
+                }
+            ],
+            "user_id": 190441000194277376
+        },
+        {
+            "username": "jacobbbbbbbbbbbbbbb",
+            "trackers": [
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "1474"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "691"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "692"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "693"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "694"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "2158"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "2710"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "1886"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "1901"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "2439"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "2419"
+                },
+                {
+                    "room": "R_PWgx47R5SpAe9BgF5hmg",
+                    "slot": "723"
+                }
+            ],
+            "user_id": 280205107113623552
+        }
+    ]
+}
